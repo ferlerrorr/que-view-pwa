@@ -54,6 +54,10 @@ let defaultOption = document.createElement("option");
 let done = false;
 /** ##Global Variables Document Window Selector */
 
+
+
+
+
 /** ##Initial Load Function Executables*/
 $(document).ready(function () {
   rtrn();
@@ -109,6 +113,10 @@ var rtrn = (function () {
     }
   };
 })();
+var refsh 
+refsh = setInterval(function () {
+ rtrn();
+}, 10000);
 
 
 
