@@ -13,7 +13,7 @@ window.addEventListener('beforeinstallprompt', function (event) {
 window.addEventListener('appinstalled', (evt) => {
     // Log install to analytics
     if (!isInStandaloneMode()) {
-        // alert('open in app');
+        alert('open in app');
     }
 });
 
