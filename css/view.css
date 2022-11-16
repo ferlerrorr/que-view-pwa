@@ -193,6 +193,10 @@
   box-shadow: 0 0.002rem 9px 0.3px #1f1fb386;
 }
 
+.slist-card{
+  width: 100%;
+}
+
 .slist-card:hover {
   transform: scale(1.03);
   transition-delay: 0.08s;
@@ -345,7 +349,7 @@
 }
 
 .smat-forward {
-  padding-left: 2rem;
+  /* padding-left: 2rem; */
   padding-right: 0.2rem;
   height: 100%;
   display: flex;
@@ -639,4 +643,9 @@
   padding: 0;
   align-items: center;
   
+}
+
+.list-card > .card-txt{
+  margin-left: 2.2rem;
+  margin-right: 1.2rem;
 }
