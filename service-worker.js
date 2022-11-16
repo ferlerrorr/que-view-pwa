@@ -6,7 +6,7 @@ let filesToCache = [
   "js/install-handler.js",
   "js/settings.js",
   "css/style.css",
-  "css/view.css",
+  "css/views.css",
   "assets/icons/icon.png",
   "manifest.json"
   // add your assets here 
